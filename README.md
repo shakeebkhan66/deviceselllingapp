@@ -9,6 +9,10 @@
 5 - How to Validate Input Fields
 6 - What is Mutation
 7 - How to Add and Delete Products in the Cart
+8 - Web View
+9 - Android View
+10 - Ios View
+11 - MasOs View
 
 # Pics
 
