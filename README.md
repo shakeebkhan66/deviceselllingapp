@@ -2,13 +2,13 @@
 
 # What will you learn in this Application
 
-1- How To Manage State
-2- How to Use VxState
-3- Use of Velocity-x Package for making UI fastly
-4- How to Make Cart
-5- How to Validate Input Fields
-6- What is Mutation
-7- How to Add and Delete Products in the Cart
+How To Manage State
+How to Use VxState
+Use of Velocity-x Package for making UI fastly
+How to Make Cart
+How to Validate Input Fields
+What is Mutation
+How to Add and Delete Products in the Cart
 
 # Pics
 
