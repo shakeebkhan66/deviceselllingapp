@@ -1,6 +1,18 @@
 # deviceselllingapp
 
-A new Flutter application.
+# What will you learn in this Application
+
+1- How To Manage State
+2- How to Use VxState
+3- Use of Velocity-x Package for making UI fastly
+4- How to Make Cart
+5- How to Validate Input Fields
+6- What is Mutation
+7- How to Add and Delete Products in the Cart
+
+# Pics
+
+<img src="https://user-images.githubusercontent.com/73787635/134221092-ae863618-77a4-4676-9c2c-a2d117ef44e5.jpeg" height = 500 width = 290/>
 
 ## Getting Started
 
